@@ -1,0 +1,9 @@
+Package: com.imokhles.sharemusix
+Name: ShareMusix
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Share Musics Direct From Music Library
+Maintainer: iMokhles
+Author: iMokhles
+Section: Tweaks

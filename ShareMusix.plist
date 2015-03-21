@@ -1,0 +1,1 @@
+{ Filter = { Bundles = ( "com.apple.MediaPlayerUI", "com.apple.MediaPlayer", "com.apple.Music", "com.apple.MusicUI", "com.apple.MusicCarDisplayUI", ); }; }
